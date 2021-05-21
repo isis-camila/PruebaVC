@@ -1,0 +1,49 @@
+/*navbar*/
+
+.navbar-brand{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+
+/*quienes somos*/
+#quienes-somos{
+    background-color: black;
+}
+
+#quienes-somos .col{
+    opacity: .8;
+    border: gray;
+}
+
+/*destacados*/
+
+#destacados{
+    background-color: black;
+}
+
+#contacto{
+    background-color: black;
+    
+}
+
+/*footer*/
+
+#footer i{
+    font-size: 2rem;
+    letter-spacing: .4rem;
+}
+
+hr{
+    height: 1px solid;   
+
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+
