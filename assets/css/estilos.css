@@ -37,8 +37,15 @@
 
 #footer i{
     font-size: 2rem;
-    letter-spacing: .4rem;
+    letter-spacing: .6rem;
+ 
 }
+
+#footer .row{
+    opacity: .8;
+    background-color: #0d93aa;
+}
+
 
 hr{
     height: 10px solid;  
