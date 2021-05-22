@@ -22,6 +22,12 @@
     background-color: black;
 }
 
+.fondo-d{
+    opacity: .8;
+    background-color: #3fc8e0;
+    border: gray;
+}
+
 #contacto{
     background-color: black;
     
@@ -35,7 +41,8 @@
 }
 
 hr{
-    height: 1px solid;   
+    height: 10px solid;  
+    background-color: #12aac2; 
 
 }
 
